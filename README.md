@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 https://github.com/pablortpo#%EF%B8%8F-github-analytics
 -->
 
-Johe eres GAY
+Johe te ano
