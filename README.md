@@ -40,15 +40,17 @@ Technologies:
 <br/></h3>
 <menu>
   <li>💻 Angular: Framework for building scalable and dynamic web applications.</li>
-  - 🦾 C# (.NET Framework, .NET 5+): API development using the .NET Framework to create robust and scalable services.
-    - 💻 ASPX
-    - 💻 MVC
-    - 💻 API Restfull
-    - 📱 Xamarin
-    - 💻 MAUI
-    - 💻 Blazor Webassembly
-  - 🕵🏼‍♂️ SQL Server: Relational database management to efficiently store and query data.
-  - ✈️ Azure: Microsoft's cloud platform that offers compute, storage, database services and more to help businesses grow and scale.
+  <li>🦾 C# (.NET Framework, .NET 5+): API development using the .NET Framework to create robust and scalable services.</li>
+  <menu>
+    <li>💻 ASPX</li>
+    <li>💻 MVC</li>
+    <li>💻 API Restfull</li>
+    <li>📱 Xamarin</li>
+    <li>💻 MAUI</li>
+    <li>💻 Blazor Webassembly</li>    
+  </menu>
+  <li>🕵🏼‍♂️ SQL Server: Relational database management to efficiently store and query data.</li>
+  <li>✈️ Azure: Microsoft's cloud platform that offers compute, storage, database services and more to help businesses grow and scale.</li>
 </menu>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablortpo&label=Profile%20views&color=0e75b6&style=flat" alt="pablortpo" /> </p>
 
