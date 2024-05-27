@@ -28,4 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 https://github.com/pablortpo#%EF%B8%8F-github-analytics
+-->
+
+Johe eres GAY
