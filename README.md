@@ -38,8 +38,8 @@ https://github.com/pablortpo#%EF%B8%8F-github-analytics
 <br/>
 Technologies:
 <br/></h3>
-<p>
-  - 💻 Angular: Framework for building scalable and dynamic web applications.
+<menu>
+  <li>💻 Angular: Framework for building scalable and dynamic web applications.</li>
   - 🦾 C# (.NET Framework, .NET 5+): API development using the .NET Framework to create robust and scalable services.
     - 💻 ASPX
     - 💻 MVC
@@ -49,7 +49,7 @@ Technologies:
     - 💻 Blazor Webassembly
   - 🕵🏼‍♂️ SQL Server: Relational database management to efficiently store and query data.
   - ✈️ Azure: Microsoft's cloud platform that offers compute, storage, database services and more to help businesses grow and scale.
-</p>
+</menu>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablortpo&label=Profile%20views&color=0e75b6&style=flat" alt="pablortpo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablortpo" alt="pablortpo" /></a> </p>
